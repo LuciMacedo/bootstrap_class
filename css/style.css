@@ -1,0 +1,15 @@
+.navbar {
+    background-color: #29ba08;
+}
+.about-us {
+    background-color: orange;
+}
+
+.margin {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.bg-footer {
+    background-color: black;
+    color: white;
+}
